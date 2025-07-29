@@ -4,7 +4,7 @@
 
 59th St Bridge Song 
 
-{Start_of_grid}
+{start_of_grid}
 || G . D . | A . D . |
 
 | G . D . | A . D . ||
@@ -18,8 +18,7 @@
 [G] Lookin' for[D] fun and [A] feelin' [D] groovy.   
 [G] Ba da da [D] da da, da da, [A] feelin' [D] groovy...   
 
-Instrumental:
-{Start_of_grid}
+{start_of_grid: Instrumental}
 || G . D . | A . D . |
 
 | G . D . | A . D . ||
@@ -32,10 +31,9 @@ Instrumental:
 [G] Ain't cha [D] got no [A] rhymes for [D] me?    
 [G] Dootin' [D] do-do-do, [A] feeling [D] groovy.   
 [G] Ba da da [D] da da,  da da, [A] feelin' [D] groovy...  
-Instrumental:
 
-
-
+{start_of_grid: Instrumental}
+{end_of_grid}
 
 
 {c: }  
@@ -47,11 +45,11 @@ Instrumental:
 
 [G] Ba da da [D] da da, da da, [A] feelin'  [D] groovy...  
 
-{Start_of_grid}
+{start_of_grid}
 || G . D . | A . D . |
 
 | G . D . | A . D . ||
-{End_of_griid}
+{end_of_grid}
 
 [G] Slow [D] down, you [A] move too [D] fast, 
 [G] You got to [D] make the [A] morning [D] last
