@@ -1,36 +1,19 @@
-# ------------------------------------------------------------
-# A HARD RAIN'S A GONNA FALL - Bob Dylan
-# ------------------------------------------------------------
-{ns}
-{define: D4 base-fret 1 frets x x 0 2 3 3} 
-{t: A HARD RAIN'S A GONNA FALL}
-{t:  Bob Dylan}                                      
-{composer: Bob Dylan} 
-{artist: Bob Dylan}                                                  
+{title: A HARD RAIN'S A GONNA FALL}
+{subtitle: Bob Dylan}
 
-
-https://www.youtube.com/watch?v=T5al0HmR4to  (Capo 2)
-
-TIP:  Don't be skittish about the (D4) and (Dsus2), they're very easy to play.  (D4) will always be bracketed by the (D) so all you do is hold the (D) and place your pinky to the first string/3rd fret.  Then just remove the pinky to get back to (D).  Easy-peasy.  The (Dsus2) is similarly bracketed by the (A).  Assuming you're playing the (A) with your middle fingers in line, just slide your bottom finger forward from the 2nd fret to the 3rd while lifting your index finger.  To get back to (A) just reverse the process. 
-
-TIP:  If everything above is too much to deal with just play the major chords (D) (G) (A) -- substituting a (G) for the (D4) in the first line of each verse -- and it'll still sound just fine!   
-
-
-[INTRO:]     [D]     [D4]       [D][;]     [D]     [D4]       [D]    
-
+{start_of_verse: Intro}
+[D]     [D4]       [D][;]     [D]     [D4]       [D]
 
 Oh where have you been my [D4]blue-eyed [D]son? [D4][-][D]
 And where have you been my [G]darling young [A]one? [Dsus2][-][A]
-I've [G]stumbled on the side of [A]twelve misty [D]mountains. [D4][-][D]  
+I've [G]stumbled on the side of [A]twelve misty [D]mountains. [D4][-][D]
 I've [G]walked and I've crawled on [A]six crooked [D]highways. [D4][-][D]
 I've [G]stepped in the middle of [A]seven sad [D]forests. [D4][-][D]
 I've [G]been out in front of a [A]dozen dead [D]oceans. [D4][-][D]
 I've been [G]ten thousand miles in the [A]mouth of a [D]graveyard. [D4][-][D]
 
-
-And it's a hard, it's a [A]hard, it's a [D]hard, it's a [G]hard.  
+And it's a hard, it's a [A]hard, it's a [D]hard, it's a [G]hard.
 It's a [D]hard ra-[A]ain's a-gonna [D]fall. [D4][-][D]     [D]     [G]     [D]
-
 
 Oh what did you see my [D4]blue-eyed [D]son? [D4][-][D]
 And what did you see my [G]darling young [A]one? [Dsus2][-][A]
@@ -42,10 +25,8 @@ I [G]saw a white ladder all [A]covered with [D]water. [D4][-][D]
 I saw [G]ten thousand talkers whose [A]tongues were all [D]broken. [D4][-][D]
 I saw [G]guns and sharp swords in the [A]hands of young [D]children. [D4][-][D]
 
-
-And it's a hard, it's a [A]hard, it's a [D]hard, it's a [G]hard.  
+And it's a hard, it's a [A]hard, it's a [D]hard, it's a [G]hard.
 It's a [D]hard ra-[A]ain's a-gonna [D]fall. [D4][-][D]     [D]     [G]     [D]
-
 
 What did you hear my [D4]blue-eyed [D]son? [D4][-][D]
 And what did you hear my [G]darling young [A]one? [Dsus2][-][A]
@@ -57,10 +38,8 @@ I heard [G]one person starve, I heard [A]many people [D]laughin'. [D4][-][D]
 Heard the [G]song of a poet who [A]died in the [D]gutter. [D4][-][D]
 Heard the [G]sound of a clown who [A]cried in the [D]alley. [D4][-][D]
 
-
-And it's a hard, it's a [A]hard, it's a [D]hard, it's a [G]hard.  
+And it's a hard, it's a [A]hard, it's a [D]hard, it's a [G]hard.
 It's a [D]hard ra-[A]ain's a-gonna [D]fall. [D4][-][D]     [D]     [G]     [D]
-
 
 Oh who did you meet my [D4]blue-eyed [D]son? [D4][-][D]
 And who did you meet my [G]darling young [A]one? [Dsus2][-][A]
@@ -71,10 +50,8 @@ I [G]met a young girl, she [A]gave me a [D]rainbow. [D4][-][D]
 I [G]met one man who was [A]wounded in [D]love. [D4][-][D]
 I met another [G]man who was [A]wounded with [D]hatred. [D4][-][D]
 
-
-And it's a hard, it's a [A]hard, it's a [D]hard, it's a [G]hard.  
+And it's a hard, it's a [A]hard, it's a [D]hard, it's a [G]hard.
 It's a [D]hard ra-[A]ain's a-gonna [D]fall. [D4][-][D]     [D]     [G]     [D]
-
 
 And what'll you do now my [D4]blue-eyed [D]son? [D4][-][D]
 And what'll you do now my [G]darling young [A]one? [Dsus2][-][A]
@@ -91,8 +68,7 @@ And re [G]flect from the mountain so [A]all souls can [D]see it. [D4][-][D]
 Then I'll [G]stand on the ocean un [A]til I start [D]sinkin'. [D4][-][D]
 But I'll [G]know my song well be [A]fore I start [D]singin'. [D4][-][D]
 
-
-And it's a hard, it's a [A]hard, it's a [D]hard, it's a [G]hard.  
-It's a [D]hard ra-[A]ain's a-gonna [D]fall. [D4][-][D]     [D]     [G]     [D]
- 
-
+And it's a hard, it's a [A]hard, it's a [D]hard, it's a [G]hard.
+It's a [D]hard ra-[A]ain's a-gonna [D]fall. [D4][-]
+{start_of_outro}
+[D]     [D]     [G]     [D]

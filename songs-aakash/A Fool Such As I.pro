@@ -1,5 +1,4 @@
 {title: A Fool Such As I}
-{subtitle: }
 {zoom-ipad: 3.005281}
 
 I'm a [C] fool but I [E7] love you dear
@@ -36,13 +35,8 @@ Now and [C]then there's a [G] fool such as [C] I
 Now and [C]then there's a [G] fool such as [C] I
 ([F] Such as [C] I)
 
-
-
 Fool such as I?  Or “such as me ?”
 
-
-
- 
 [F] Now and then there's a [F]fool such as [C] I am over you
 You [G] taught me how to [D] love
 And now [G] you say that we are [G7] through

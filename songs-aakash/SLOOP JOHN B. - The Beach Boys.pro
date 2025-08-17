@@ -1,66 +1,37 @@
-# ----------------------------------------------------------------------------
-# SLOOP JOHN B. - The Beach Boys
-# ----------------------------------------------------------------------------
-{ns}
-{define: C/G base-fret 1 frets 3 3 2 0 1 0} 
-{define: Gadd base-fret 1 frets 3 2 0 0 3 3} 
-{t: SLOOP JOHN B. - The Beach Boys }
-{st: (Traditional-Sandburg/Jardine/Wilson)  }
-{artist: The Beach Boys }
-{composer: Sandburg; Al Jardine; Brian Wilson }
+{title: SLOOP JOHN B.}
+{subtitle: The Beach Boys}
+{start_of_verse: Intro}
+[b][,]     [c][-][b][-][g][-][d]
 
-
-https://www.youtube.com/watch?v=MWJXTdCVsKI  (Capo 1)
-
-If transposing, play the root chord of the transposed (Gadd) and add the 5th note as needed.
-
-TIP:  This song came from Pet Sounds so it's full of Brian Wilson's creative harmonies.  This is reflected in the last two choruses which is played/sung incorporating both the primary and overlapping melodies, indicated by the dash.  If you don't want to play it this way you can glance back up at the first chorus readily enough and plug in the words and chords.
-
-TIP:  There are five notes in the intro (notes may or may not transpose).  Untransposed they're all open strings except for the 2nd string/1st fret <c>.
-
-TIP:  The song fades out at the end but I finished the lyrics to cleanly end the song.
-   
-
-[INTRO:]     [b][,]     [c][-][b][-][g][-][d]       
-
-
-We [G]come on the sloop [C]John [G]B.   My grandfather [C]and [G]me.  
-Around Nassau [Gadd]town we [G]did [D]roam.  
-[D7]Drinking all [G]night, got into a [C]fight.  
+We [G]come on the sloop [C]John [G]B.   My grandfather [C]and [G]me.
+Around Nassau [Gadd]town we [G]did [D]roam.
+[D7]Drinking all [G]night, got into a [C]fight.
 Well I [G]feel so broke up, [D7]I   wanna to go [G]home[G].
 
-
-So hoist up the John [C]B's [G]sail.   See how the main [C]sail [G]sets.  
-Call for the Captain a[Gadd]shore, let me [G]go [D]home.   [D7]Let me go [G]home.  
+So hoist up the John [C]B's [G]sail.   See how the main [C]sail [G]sets.
+Call for the Captain a[Gadd]shore, let me [G]go [D]home.   [D7]Let me go [G]home.
 I wanna go [C]home, yeah [C/G]yeah.   Well I [G]feel so broke up, [D7]I wanna go [G]home. (didit n didit n ditit n dittin n)
 
-
-The first mate he [C]got [G]drunk.  And broke in the Cap[C]tain's [G]trunk.  
-The constable had to [Gadd]come and take him [G]a[D]way.  
-[D7]Sheriff John [G]Stone, why don't you leave me a[C]lone, yeah [C/G]yeah.  
+The first mate he [C]got [G]drunk.  And broke in the Cap[C]tain's [G]trunk.
+The constable had to [Gadd]come and take him [G]a[D]way.
+[D7]Sheriff John [G]Stone, why don't you leave me a[C]lone, yeah [C/G]yeah.
 Well I [G]feel so broke up, [D7]I   wanna go [G]home[G].
 
-
-So hoist up the John [C]B. - [G]hoist up the John B. - 
-See how the main [C]sail - [G]see how the mainsail - 
-Call for the Captain a[Gadd]shore let me [G]go [D7]home - [D]let me go [D7]home.  
-I wanna go [G]home - let me go [Gadd]home - why don't you let me go - 
-[C]Hoist up the John B.'s -  hoist up the John B.'s - 
+So hoist up the John [C]B. - [G]hoist up the John B. -
+See how the main [C]sail - [G]see how the mainsail -
+Call for the Captain a[Gadd]shore let me [G]go [D7]home - [D]let me go [D7]home.
+I wanna go [G]home - let me go [Gadd]home - why don't you let me go -
+[C]Hoist up the John B.'s -  hoist up the John B.'s -
 [G]Feel so broke up, [D7]I wanna go [G]home.
 
-
-The poor cook he [C]caught the [G]fits, and threw away all [C]my [G]grits, 
-And then he took and he [Gadd]ate    up all of [G]my [D]corn.  
-[D7]Let me go [G]home.   Why don't they let me go [C]home[Am]?  
+The poor cook he [C]caught the [G]fits, and threw away all [C]my [G]grits,
+And then he took and he [Gadd]ate    up all of [G]my [D]corn.
+[D7]Let me go [G]home.   Why don't they let me go [C]home[Am]?
 This [G]is the worst trip I've [D7]ever been [G]on[G].
 
-
-So hoist up the John [C]B, - [G]hoist up the John B., - 
-See how the main [C]sail - [G]see how the mainsail - 
-Call for the Captain a[Gadd]shore let me [G]go [D7]home - [D]let me go home.  
-I wanna go [G]home - let me go [Gadd]home - why don't you let me go - 
-[C]Hoist up the John B.'s sails.  
+So hoist up the John [C]B, - [G]hoist up the John B., -
+See how the main [C]sail - [G]see how the mainsail -
+Call for the Captain a[Gadd]shore let me [G]go [D7]home - [D]let me go home.
+I wanna go [G]home - let me go [Gadd]home - why don't you let me go -
+[C]Hoist up the John B.'s sails.
 I [G]feel so broke up, [D7]I   wanna go [G]home. [G]     [|][C][|][-][|][G][|]
-
-
-

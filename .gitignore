@@ -1,1 +1,11 @@
+clean_chordpro.py
+# Ignore Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+fix_chordpro.py
 .vscode/
+.DS_Store
+# Ignore virtual environment directories
+venv/
+.env            

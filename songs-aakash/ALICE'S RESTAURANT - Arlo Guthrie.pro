@@ -1,29 +1,9 @@
-# ----------------------------------------------------------------------------
-# ALICE'S RESTAURANT - Arlo Guthrie
-# ----------------------------------------------------------------------------
-{ns}
-{define: Fm base-fret 1 frets x x 3 1 1 1} 
-{t: ALICE'S RESTAURANT}
-{t: Arlo Guthrie}
-{artist: Arlo Guthrie}
-{composer: Arlo Guthrie}
-
-
-https://www.youtube.com/watch?v=m57gzA2JCcM  (Capo 2)
-
-Arlo of course is fingerpicking this song but we'll give it a whirl using chords.
- 
-TIP:  Let's talk about those three notes at the beginning of the first two bars.  First, they can be ignored but they're just lead-in notes.  The easy way out is to cover them with the chords (G) - (C) - (G).  But you can play the notes two ways.  First, you can play them bass side (5th string/2nd fret, 5th string/3rd fret, open 4th string).  Start like you're getting ready to play a (C) but hover over the fingerboard.  Pick the 5th string/2nd fret with your middle finger, then pick the 5th string/3rd fret with your ring finger, and pick the open 4th string and strum (C).  When it comes time to repeat this you'll be coming off a (C) so just keep formation but lift off and repeat the process.  Or you can play it treble side (2nd string open, 2nd string/1st fret, 2nd string/3rd fret).  Form (C) with fingers on the fretboard, but before playing the first note lift off index finger and pick open 2nd string, put your index finger back down and pick the 2nd string again, keep your index finger where it is but add pinky to 3rd fret and pick, lift off pinky and strum (C).  Either will make more sense once you play it a few times.
-
-TIP:  You can play a (D7) instead of the (Fm) which you may find much easier.  But as for the (Fm), it will always follow the (F) so if you play the (F) as (F/C) -- with the bass note (5th string/3rd fret) covered by your pinky -- all you have to do is lift off your middle finger while sneaking your index finger up one additional string and you're there!  Try it.  
-
-TIP:  With my feeble brain and mono-tasking abilities I find it impossible to play both the melody and speak the words.  Maybe that's just me.  Might go better if one person plays the melody and another tells the story.  And remember, if you want to end war and stuff, you gotta sing loud.
-
-
-[INTRO:]       [b][-][c][-][d]     [C]     [A][-][A7]       [D7]       [G]     [C][;]       [b][-][c][-][d]     [C]     [A][-][A7]       [D7]       [G7] 
+{title: ALICE'S RESTAURANT}
+{subtitle: Arlo Guthrie}
+{start_of_verse: Intro}
+[b][-][c][-][d]     [C]     [A][-][A7]       [D7]       [G]     [C][;]       [b][-][c][-][d]     [C]     [A][-][A7]       [D7]       [G7]
 
                     [C]     [C][-][C7][,]     [F]     [F][-][Fm][;]       [C]     [A][-][A7]       [D7]       [G]     [C]
-
 
 This song is called Alice's Restaurant.  It's a, about Alice, and the restaurant, but Alice's Restaurant
 
@@ -31,49 +11,42 @@ is not the name of the restaurant that's just the name of the song.  That's why 
 
 Alice's Restaurant.
 
-
 [b][-][c][-][d]     [C]You can get any [A]thing you [A7]want at [D7]Alice's [G]Restau[C]rant.
 [b][-][c][-][d]     [C]You can get any[A]thing you [A7]want, [D7]       at Alice's [G7]Restaurant.
 [C]Walk right in it's [C7]around the back, [F]just a half a mile from the [Fm]railroad track.
 [C]You can get any[A]thing you [A7]want at [D7]Alice's [G]Restaur[C]ant.
 
+Now it all started two Thanksgivings ago, it was on, two years ago on Thanksgiving when my friend
 
+and I, went up to visit Alice at the restaurant but, Alice doesn't live in the restaurant she, lives
 
-Now it all started two Thanksgivings ago, it was on, two years ago on Thanksgiving when my friend 
+in the church nearby the restaurant in the bell-tower, with her husband Ray and, Fasha the dog and,
 
-and I, went up to visit Alice at the restaurant but, Alice doesn't live in the restaurant she, lives 
+livin' in the bell tower like that they got a lot of room downstairs where the pews used to be in.
 
-in the church nearby the restaurant in the bell-tower, with her husband Ray and, Fasha the dog and, 
-
-livin' in the bell tower like that they got a lot of room downstairs where the pews used to be in.  
-
-Havin' all that room seein' as how they took out all the pews they decided that they didn't have to 
+Havin' all that room seein' as how they took out all the pews they decided that they didn't have to
 
 take out their garbage for a long time.
 
+We got up there we found all the garbage in there and we decided it'd be a, friendly gesture for us
 
-We got up there we found all the garbage in there and we decided it'd be a, friendly gesture for us 
+to take the garbage down to the city dump.  So we took the half a ton of garbage put it in the back
 
-to take the garbage down to the city dump.  So we took the half a ton of garbage put it in the back 
-
-of a red VW microbus took shovels and rakes and implements of destruction and, headed on toward the 
+of a red VW microbus took shovels and rakes and implements of destruction and, headed on toward the
 
 city dump.
 
-
 Well we got there and there was a big sign and a chain across the dump saying "Closed on Thanksgiving"
 
-and, we had never heard of a dump closed on Thanksgiving before and with, tears in our eyes we drove 
+and, we had never heard of a dump closed on Thanksgiving before and with, tears in our eyes we drove
 
 off into the sunset looking for, another place to put the garbage.
 
+We didn't find one.  Until we came to a side road and off the side of the side road there was another
 
-We didn't find one.  Until we came to a side road and off the side of the side road there was another 
-
-fifteen foot cliff and at the bottom of the cliff was another pile of garbage and, we decided that one big pile 
+fifteen foot cliff and at the bottom of the cliff was another pile of garbage and, we decided that one big pile
 
 is better than two little piles and rather than bring that one up we decided to throw ours down.
-
 
 That's what we did.  Drove back to the church had a Thanksgiving dinner that couldn't be beat went to sleep
 
@@ -81,274 +54,252 @@ and didn't get up until the next morning, when we got a phone call from Officer 
 
 your name on an envelope at the bottom of a half a ton of garbage and, just wanted to know if you had any
 
-information about it" and I said "Yes sir Officer Obie I, cannot tell a lie.  I put that envelope under that garbage." 
+information about it" and I said "Yes sir Officer Obie I, cannot tell a lie.  I put that envelope under that garbage."
 
+After speaking to Obie for about forty-five minutes on the telephone we finally arrived at the truth
 
-After speaking to Obie for about forty-five minutes on the telephone we finally arrived at the truth 
+of the matter and said, that we had to go down and pick up the garbage and also had to go down and
 
-of the matter and said, that we had to go down and pick up the garbage and also had to go down and 
+speak to him at the police officer's station so we got in the red VW microbus with the shovels and
 
-speak to him at the police officer's station so we got in the red VW microbus with the shovels and 
+rakes and implements of destruction and headed on, toward the police officer's station now friends,
 
-rakes and implements of destruction and headed on, toward the police officer's station now friends, 
+there was only one or two things that Obie coulda done at the police station and the first was that
 
-there was only one or two things that Obie coulda done at the police station and the first was that 
+he could have given us a medal for being so brave and honest on the telephone, which wasn't very
 
-he could have given us a medal for being so brave and honest on the telephone, which wasn't very 
+likely and we didn't expect it and the other thing was he could have bawled us out and told us never
 
-likely and we didn't expect it and the other thing was he could have bawled us out and told us never 
+to be seen driving garbage around the vicinity again, which is what we expected but when we got to
 
-to be seen driving garbage around the vicinity again, which is what we expected but when we got to 
+the police officer's station there was a third possibility that we hadn't even counted upon and we
 
-the police officer's station there was a third possibility that we hadn't even counted upon and we 
+was both immediately arrested.  Handcuffed.  And I said "Obie I don't think I can pick up the garbage
 
-was both immediately arrested.  Handcuffed.  And I said "Obie I don't think I can pick up the garbage 
-
-with these handcuffs on."  He said "Shut up kid.  Get in the back of the patrol car" and that's what 
+with these handcuffs on."  He said "Shut up kid.  Get in the back of the patrol car" and that's what
 
 we did sat in the back of the patrol car and drove to the quote Scene of the Crime unquote.
 
+I want tell you about the town of Stockbridge Massachusetts where this happened here they got three
 
-I want tell you about the town of Stockbridge Massachusetts where this happened here they got three 
+stop signs, two police officers and one police car but when we got to the Scene of the Crime there
 
-stop signs, two police officers and one police car but when we got to the Scene of the Crime there 
+was five police officers and three police cars, bein' the biggest crime of the last fifty years and
 
-was five police officers and three police cars, bein' the biggest crime of the last fifty years and 
+everybody wanted to get in the newspaper story about it.  And they was using up all kinds of cop
 
-everybody wanted to get in the newspaper story about it.  And they was using up all kinds of cop 
+equipment that they had hanging around the police officer's station.  They was taking plaster tire
 
-equipment that they had hanging around the police officer's station.  They was taking plaster tire 
+tracks foot prints dog smelling prints, and they took twenty seven eight-by-ten color glossy
 
-tracks foot prints dog smelling prints, and they took twenty seven eight-by-ten color glossy 
+photographs with circles and arrows and a paragraph on the back, of each one explaining what each one
 
-photographs with circles and arrows and a paragraph on the back, of each one explaining what each one 
+was to be used as evidence against us.  Took pictures of the approach the getaway the northwest
 
-was to be used as evidence against us.  Took pictures of the approach the getaway the northwest 
+corner the southwest corner and that's not to mention the aerial photography.
 
-corner the southwest corner and that's not to mention the aerial photography. 
+After the or-deal we went back to the jail Obie said he was going to put us in the cell said "Kid
 
+I'm, going to put you in the cell I want your wallet and your belt."  And I said "Obie I can
 
-After the or-deal we went back to the jail Obie said he was going to put us in the cell said "Kid 
+understand you wanting my wallet so I don't have any money to spend in the cell but what do you want
 
-I'm, going to put you in the cell I want your wallet and your belt."  And I said "Obie I can 
+my belt for?" and he said "Kid, we don't want any hangings."  I said "Obie did you think I was going
 
-understand you wanting my wallet so I don't have any money to spend in the cell but what do you want 
+to hang myself for littering?"  Obie said he was making sure and friends Obie was cause he took out
 
-my belt for?" and he said "Kid, we don't want any hangings."  I said "Obie did you think I was going 
+the toilet seat so I couldn't hit myself over the head and drown, and he took out the toilet paper
 
-to hang myself for littering?"  Obie said he was making sure and friends Obie was cause he took out 
+so I couldn't bend the bars, roll out the, roll the toilet paper out the window slide down the roll
 
-the toilet seat so I couldn't hit myself over the head and drown, and he took out the toilet paper 
+and have me an escape.  Obie was making sure and it was about four or five hours later that Alice -
 
-so I couldn't bend the bars, roll out the, roll the toilet paper out the window slide down the roll 
+remember Alice?  It's a song about Alice - Alice came by and with a few nasty words to Obie on the
 
-and have me an escape.  Obie was making sure and it was about four or five hours later that Alice - 
-
-
-remember Alice?  It's a song about Alice - Alice came by and with a few nasty words to Obie on the 
-
-side, bailed us out of jail and we went back to the church, had a another thanksgiving dinner that 
+side, bailed us out of jail and we went back to the church, had a another thanksgiving dinner that
 
 couldn't be beat and didn't get up until the next morning, when we all had to go to court.
 
+We walked in sat down Obie came in, with the twenty seven eight-by-ten color glossy pictures with
 
-We walked in sat down Obie came in, with the twenty seven eight-by-ten color glossy pictures with 
+the circles and arrows and a paragraph on the back of each one and sat down.  Man came in said "All
 
-the circles and arrows and a paragraph on the back of each one and sat down.  Man came in said "All 
+rise" we all stood up and Obie stood up with the twenty seven eight-by-ten color glossy pictures
 
-rise" we all stood up and Obie stood up with the twenty seven eight-by-ten color glossy pictures 
+and the judge walked in sat down with a seeing eye dog and he sat down.  We sat down.  Obie looked
 
-and the judge walked in sat down with a seeing eye dog and he sat down.  We sat down.  Obie looked 
+at the seeing eye dog, and then at the twenty seven eight-by-ten color glossy pictures with the
 
-at the seeing eye dog, and then at the twenty seven eight-by-ten color glossy pictures with the 
+circles and arrows and a paragraph on the back of each one, and looked at the seeing eye dog.  And
 
-circles and arrows and a paragraph on the back of each one, and looked at the seeing eye dog.  And 
+then at twenty seven eight-by-ten color glossy pictures with the circles and arrows and a paragraph
 
-then at twenty seven eight-by-ten color glossy pictures with the circles and arrows and a paragraph 
+on the back of each one and began to cry, 'cause Obie came to the realization that it was a typical
 
-on the back of each one and began to cry, 'cause Obie came to the realization that it was a typical 
+case of American blind justice and there wasn't nothing he could do about it, and the judge wasn't
 
-case of American blind justice and there wasn't nothing he could do about it, and the judge wasn't 
+going to look at the twenty seven eight-by-ten color glossy pictures with the circles and arrows and
 
-going to look at the twenty seven eight-by-ten color glossy pictures with the circles and arrows and 
+a paragraph on the back of each one explaining what each one was to be used as evidence against us.
 
-a paragraph on the back of each one explaining what each one was to be used as evidence against us.  
-
-And we was fined fifty dollars and had to, pick up the garbage in the snow but, that's not what I 
+And we was fined fifty dollars and had to, pick up the garbage in the snow but, that's not what I
 
 came to tell you about.
 
+Came to talk about the draft.  They got a building down New York City it's called Whitehall Street
 
-Came to talk about the draft.  They got a building down New York City it's called Whitehall Street 
+where you walk in you get injected inspected detected infected neglected and selected.  I went down
 
-where you walk in you get injected inspected detected infected neglected and selected.  I went down 
+to get my physical examination one day and I walked in I sat down.  Got good and drunk the night
 
-to get my physical examination one day and I walked in I sat down.  Got good and drunk the night 
+before so I looked and felt my best when I went in that morning.  `Cause I wanted to look like the
 
-before so I looked and felt my best when I went in that morning.  `Cause I wanted to look like the 
+all-American kid from New York City, man I wanted, I wanted to feel like the all-, I wanted to be,
 
-all-American kid from New York City, man I wanted, I wanted to feel like the all-, I wanted to be,  
+the all American kid from New York and I walked in sat down I was hung down brung down hung up and
 
-the all American kid from New York and I walked in sat down I was hung down brung down hung up and 
+all, kinds o' mean nasty ugly things.  And I walked in I sat down and they gave me a piece of paper
 
-all, kinds o' mean nasty ugly things.  And I walked in I sat down and they gave me a piece of paper 
+said, "Kid, see the psychiatrist room 604" and, I went up there I said "Shrink?  I want to kill.
 
-said, "Kid, see the psychiatrist room 604" and, I went up there I said "Shrink?  I want to kill.  
+I mean I wanna I wanna kill.  Kill.  I wanna I wanna see, I wanna see blood and gore and guts and
 
-I mean I wanna I wanna kill.  Kill.  I wanna I wanna see, I wanna see blood and gore and guts and 
+veins in my teeth.  Eat dead burnt bodies.  I mean kill.  Kill, KILL, KILL" and I started jumpin'
 
-veins in my teeth.  Eat dead burnt bodies.  I mean kill.  Kill, KILL, KILL" and I started jumpin' 
+up and down yelling "KILL, KILL," and hestarted jumpin' up and down with me and we was both jumping
 
-up and down yelling "KILL, KILL," and hestarted jumpin' up and down with me and we was both jumping 
-
-up and down, yelling "KILL, KILL."  And the Sergeant came over pinned a medal on me sent me down 
+up and down, yelling "KILL, KILL."  And the Sergeant came over pinned a medal on me sent me down
 
 the hall said "You're our boy."  Didn't feel too good about it.
 
+Proceeded on down the hall getting' more injections inspections detections neglections and all,
 
-Proceeded on down the hall getting' more injections inspections detections neglections and all, 
+kinds of stuff that they was doin' to me at the thing there and I was there for two hours, three
 
-kinds of stuff that they was doin' to me at the thing there and I was there for two hours, three 
+hours, four hours, I was there for a long time going through all kinds of mean nasty ugly things and
 
-hours, four hours, I was there for a long time going through all kinds of mean nasty ugly things and 
+I, was just having a tough time there and they was inspecting injecting every single part of me and
 
-I, was just having a tough time there and they was inspecting injecting every single part of me and 
+they was leaving no part untouched.  Proceeded through and, when I finally came to the see the last
 
-they was leaving no part untouched.  Proceeded through and, when I finally came to the see the last 
-
-man I walked in, walked in sat down after a whole big thing there and I walked up and said "What do 
+man I walked in, walked in sat down after a whole big thing there and I walked up and said "What do
 
 you want?" and he said "Kid we only got one question.  Have you ever been arrested?"
 
+And I proceeded to tell him the story of the Alice's Restaurant Massacre with, full orchestration
 
-And I proceeded to tell him the story of the Alice's Restaurant Massacre with, full orchestration 
-
-and five part harmony and stuff like that and all the phenome - stopped me right there and said 
+and five part harmony and stuff like that and all the phenome - stopped me right there and said
 
 "Kid, did you ever go to court?"  And I proceeded to tell him the story of the twenty seven eight-
 
-by-ten color glossy pictures with the circles and arrows and a paragraph on the back of each one and 
+by-ten color glossy pictures with the circles and arrows and a paragraph on the back of each one and
 
-he stopped me right there and said "Kid, I want you to go over and sit down on that bench that says 
+he stopped me right there and said "Kid, I want you to go over and sit down on that bench that says
 
-'Group W'.  Now kid!" 
+'Group W'.  Now kid!"
 
+<play slowly>    And I, I walked over to the to the bench there and there is, is Group W's where they
 
-<play slowly>    And I, I walked over to the to the bench there and there is, is Group W's where they 
+where they put you if you may not be moral enough to, to join the army, after committing your special
 
-where they put you if you may not be moral enough to, to join the army, after committing your special 
+crime and, there was all kinds of mean nasty ugly looking people on the bench there.  Mother rapers.
 
-crime and, there was all kinds of mean nasty ugly looking people on the bench there.  Mother rapers. 
- 
-Father stabbers.  Father rapers!  Father rapers sittin' right there on the bench next to me and one, 
+Father stabbers.  Father rapers!  Father rapers sittin' right there on the bench next to me and one,
 
-they was, mean and nasty and ugly and horrible and crime-fightin' guys sittin' on the bench.  And 
+they was, mean and nasty and ugly and horrible and crime-fightin' guys sittin' on the bench.  And
 
-the meanest ugliest nastiest one, the meanest father raper of them all, was coming over to me and he 
+the meanest ugliest nastiest one, the meanest father raper of them all, was coming over to me and he
 
-was mean 'n' ugly 'n' nasty 'n' horrible and all kind of things, and he sat down next to me and said 
+was mean 'n' ugly 'n' nasty 'n' horrible and all kind of things, and he sat down next to me and said
 
-"Kid, whad'ya get?"  I said "I didn't get nothing I had to pay $50 and pick up the garbage."  He 
+"Kid, whad'ya get?"  I said "I didn't get nothing I had to pay $50 and pick up the garbage."  He
 
-said "What were you arrested for kid?"  And I said "Littering."  And they all moved away from me on 
+said "What were you arrested for kid?"  And I said "Littering."  And they all moved away from me on
 
-the bench there and the hairy eyeball and all kinds of mean nasty things, till I said "And creating 
+the bench there and the hairy eyeball and all kinds of mean nasty things, till I said "And creating
 
-a nuisance."  And they all came back, shook my hand and we had a great time, on the bench talkin' 
+a nuisance."  And they all came back, shook my hand and we had a great time, on the bench talkin'
 
-about crime mother stabbin' father raping all kinds of groovy things that we was talkin' about on 
+about crime mother stabbin' father raping all kinds of groovy things that we was talkin' about on
 
-the bench.  And everything was fine we was smoking cigarettes and all kinds of things until the 
+the bench.  And everything was fine we was smoking cigarettes and all kinds of things until the
 
 Sergeant came over.  Had some paper in his hand held it up and said "Kids . . .
-
 
 This-piece-of-paper's-got-47-words-37-sentences-58-words-we-wanna-know-details-of-the-crime-
 
 time-of-the-crime-and-any-other-kind-of-thing-you-gotta-say-pertaining-to-and-about-the-crime-
 
-I-want-to-know-arresting-officer's-name-and-any-other-kind-of-thing-you-gotta-say-on-the-top" 
+I-want-to-know-arresting-officer's-name-and-any-other-kind-of-thing-you-gotta-say-on-the-top"
 
-forty-five minutes and nobody understood, a word that he said but, we had fun filling out the forms 
+forty-five minutes and nobody understood, a word that he said but, we had fun filling out the forms
 
-and playing with the pencils on the bench there, and I filled out the massacre with the four part 
+and playing with the pencils on the bench there, and I filled out the massacre with the four part
 
+harmony and, wrote it down there just like it was and everything was fine and I, put down the
 
-harmony and, wrote it down there just like it was and everything was fine and I, put down the 
+pencil and I, turned over the piece of paper and there . . . there on the other side, in the middle
 
-pencil and I, turned over the piece of paper and there . . . there on the other side, in the middle 
-
-of the other side, away from everything else on the other side, in parentheses, capital letters, 
+of the other side, away from everything else on the other side, in parentheses, capital letters,
 
 quotated, read the following words:
 
-
                                   ("KID, HAVE YOU REHABILITATED YOURSELF?")
 
+I went over to the Sergeant and said "Sergeant you got a, a lot a damn gall to ask me if I've
 
-I went over to the Sergeant and said "Sergeant you got a, a lot a damn gall to ask me if I've 
+rehabilitated myself I mean, I mean, I mean that just I'm sittin' here on the bench, I mean I'm
 
-rehabilitated myself I mean, I mean, I mean that just I'm sittin' here on the bench, I mean I'm 
+sittin' here, on the Group W bench, 'cause you want to know if I'm moral enough join the army burn
 
-sittin' here, on the Group W bench, 'cause you want to know if I'm moral enough join the army burn 
+women kids houses and villages after bein' a litterbug."  He looked at me and said "Kid, we don't
 
-women kids houses and villages after bein' a litterbug."  He looked at me and said "Kid, we don't 
+like your kind, and we're gonna send your fingerprints off to Washington" and friends, somewhere in
 
-like your kind, and we're gonna send your fingerprints off to Washington" and friends, somewhere in 
-
-Washington enshrined in some little folder is a, study in black and white, of my fingerprints.  And 
+Washington enshrined in some little folder is a, study in black and white, of my fingerprints.  And
 
 the only reason I'm singing you this song now is cause you may know somebody in a similar situation.
 
-Or you may be in a similar situation and if you're in a situation like that there's only one thing 
+Or you may be in a similar situation and if you're in a situation like that there's only one thing
 
 you can do.  Walk in to the shrink wherever you are, just walk in say "Shrink?"
 
+[C]You can get any[A]thing you [A7]want at [D7]Alice's [G7]Restaur[C]ant."
 
-[C]You can get any[A]thing you [A7]want at [D7]Alice's [G7]Restaur[C]ant." 
+And walk out.  You know if one person just one person does it they may think he's really sick and
 
+they won't take him.  And if two people two people do it, in harmony, they may think they're both
 
-And walk out.  You know if one person just one person does it they may think he's really sick and 
+faggots and they won't take either of them.  And three people do it, three can you imagine three
 
-they won't take him.  And if two people two people do it, in harmony, they may think they're both 
+people walking in singin' a bar of Alice's Restaurant and walking out.  They may think it's an
 
-faggots and they won't take either of them.  And three people do it, three can you imagine three 
+organization.  And can you, can you imagine fifty people a day, I said fifty people a day walking
 
-people walking in singin' a bar of Alice's Restaurant and walking out.  They may think it's an 
+in singin' a bar of Alice's Restaurant and walking out.  And friends they may think it's a movement.
 
-organization.  And can you, can you imagine fifty people a day, I said fifty people a day walking 
+And that's what it is, the Alice's Restaurant Anti-Massacree Movement and all you got to do to join
 
-in singin' a bar of Alice's Restaurant and walking out.  And friends they may think it's a movement. 
- 
-And that's what it is, the Alice's Restaurant Anti-Massacree Movement and all you got to do to join 
-
-is sing it the next time it comes around on the guitar.  With feelin'.  So we'll wait 'til it comes 
+is sing it the next time it comes around on the guitar.  With feelin'.  So we'll wait 'til it comes
 
 around on the guitar here, and sing it when it does .  .  .  Here it comes.
 
-
 [b][-][c][-][d]     [C]You can get any[A]thing you [A7]want at [D7]Alice's [G]Restaur[C]ant.
 [b][-][c][-][d]     [C]You can get any[A]thing you [A7]want, [D7]       at Alice's [G7]Restaurant.
-[C]Walk right in it's [C7]around the back, [F]just a half a mile from the [Fm]railroad track.  
+[C]Walk right in it's [C7]around the back, [F]just a half a mile from the [Fm]railroad track.
 And [C]you can get any[A]thing you [A7]want at [D7]Alice's [G]Restaur[C]ant.
 
+That was horrible.  If you want to end war and stuff you gotta sing loud.  I've been singing this
 
-That was horrible.  If you want to end war and stuff you gotta sing loud.  I've been singing this 
-
-song now for twenty-five minutes.  I could sing it for another twenty five minutes.  I'm not proud.  
+song now for twenty-five minutes.  I could sing it for another twenty five minutes.  I'm not proud.
 
 Or tired.  So we'll wait till it comes around again and, this time with four part harmony and feeling.
 
-
 We're just waitin' for it to come around is what we're doing .  .  .  Alright now?
-
 
 [C]You can get any[A]thing you [A7]want at [D7]Alice's [G]Restaur[C]rant - excepting Al[G]ice.
 [C]You can get any[A]thing you [A7]want, [D7]at  Alice's [G]Restaurant.
-[C]Walk right in it's [C7]around the back, [F]just a half a mile from the [Fm]railroad track.  
+[C]Walk right in it's [C7]around the back, [F]just a half a mile from the [Fm]railroad track.
 And [C]you can get any[A]thing you [A7]want at [D7]Alice's [G]Restaur[C]ant.
 
-Da da da da da da da [D7]dum.   At Ali[G7]ce's, Restaur[C]ant. [C]     [|][G7][|][-][|][C][|] 
- 
-
-
+Da da da da da da da [D7]dum.   At Ali[G7]ce's, Restaur[C]ant. [C]     [|][G7][|][-][|][C][|]

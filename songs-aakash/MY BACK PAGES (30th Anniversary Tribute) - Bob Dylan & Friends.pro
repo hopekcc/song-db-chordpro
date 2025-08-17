@@ -1,31 +1,14 @@
-# ----------------------------------------------------------------------------
-# MY BACK PAGES (30th Anniversary Tribute) - Bob Dylan and Friends
-# ----------------------------------------------------------------------------
-{ns}
-{define: F base-fret 1 frets x x 3 2 1 1} 
-{t: MY BACK PAGES (30th Anniversary Tribute) - Bob Dylan and Friends }
-{st: (Dylan)   }
-{artist: Bob Dylan and Friends  }
-{composer: Bob Dylan  }
+{title: MY BACK PAGES (30th Anniversary Tribute)}
+{subtitle: Bob Dylan & Friends}
+{start_of_verse: Intro}
+[C]     [F][,]       [C]     [F][,]       [C]     [F][,]       [C]     [F][,]     [C]     [F][,]       [C]     [F][,]       [C]     [F][,]       [C]     [F]
 
-
-https://www.youtube.com/watch?v=rGEIMCWob3U  (Capo 4)
-
-TIP:  Anytime there's a group effort each performer brings their own nuance to the stage so there are slight differences in the pacing.
-
-TIP:  When playing the sing-song (C) (F) it's only important to hit the bottom 2 or 3 strings of the (F).
- 
-
-[INTRO:]     [C]     [F][,]       [C]     [F][,]       [C]     [F][,]       [C]     [F][,]     [C]     [F][,]       [C]     [F][,]       [C]     [F][,]       [C]     [F]    
-
- 
 [(Roger][McGuinn][lead)]
 
 [C]Crimson flames tied [Em]through my ears rollin' [F]high and [G]mighty [C]trap.
 Pounced with [Am]fire on [Em]flaming roads using [F]ideas as my [G]maps.
 "We'll [Am]meet on edges [Em]soon said I, [F]proud 'neath heated [G]brow.
 Ah but [C]I was so much [F]older [C]then, I'm [F]younger [G]than that [C]now. [F]    [C]     [F]
-
 
 [(Tom][Petty][lead)]
 
@@ -34,7 +17,6 @@ Ah but [C]I was so much [F]older [C]then, I'm [F]younger [G]than that [C]now. [F
 Ro[Am]mantic facts of [Em]musketeers foun[F]dationed deep, some[G]how.
 Ah but [C]I was so much [F]older [C]then, I'm [F]younger [G]than that [C]now. [F]    [C]     [F]
 
-
 [(Neil][Young][lead)]
 
 Girls' [C]faces [Am]formed the [Em]forward path, [F]phony [G]jealou[C]sy.
@@ -42,13 +24,11 @@ To [Am]memorizing [Em]politics, of [F]ancient histor[G]ry.
 Flung [Am]down by corpse, e[Em]vangelists un[F]thought of though some[G]how.
 Ah but [C]I was so much [F]older [C]then, I'm [F]younger [G]than that [C]now. [F]    [C]     [F]
 
-
 [(Eric][Clapton][solo)]
 
-[C][-][Am]       [Em]       [Em]       [F]     [G]     [C][,]       [C]     [Am]       [Em]       [Em]       [F]     [F]     [G] 
+[C][-][Am]       [Em]       [Em]       [F]     [G]     [C][,]       [C]     [Am]       [Em]       [Em]       [F]     [F]     [G]
 
 [G] [Am] [Am]       [Em]       [Em]       [F]     [G][,]       [G]     [C]     [C]     [F]     [C]     [F]     [G]     [C][-][F]     [C][-][F]
-
 
 [(Clapton][lead)]
 
@@ -57,14 +37,12 @@ Ah but [C]I was so much [F]older [C]then, I'm [F]younger [G]than that [C]now. [F
 "E[Am]quality," I [Em]spoke the word, as [F]if a wedding [G]vow.
 Ah but [C]I was so much [F]older [C]then, I'm [F]younger [G]than that [C]now. [F]    [C]     [F]
 
-
 [(Bob][Dylan][lead)]
 
 [C]In a soldier's [Am]stance I [Em]aimed my hand, at the [F]mongrel [G]dogs who [C]teach[F].
 Fearing [C]not that I'd be[Am]come my [Em]enemy, in the [F]instant that I [G]preach.
 My ex[Am]istence led by con[Em]fusion boats, [F]mutiny from stern to [G]bow.
 Ah but [C]I was so much [F]older [C]then, I'm [F]younger [G]than that [C]now. [F]    [C]     [F]
-
 
 [(George][Harrison][lead)]
 
@@ -73,13 +51,8 @@ De[C]ceived me [Am]into thinking [Em]I, had [F]something to pro[G]tect.
 [Am]Good and bad I de[Em]fine these terms, quite [F]clear no doubt some[G]how.
 Ah but [C]I was so much [F]older [C]then, I'm [F]younger [G]than that [C]now. [F]    [C]     [F]
 
-
 [(Young][solo)]
 
 [C][-][Am]       [Em]       [Em]       [F]     [G]     [C][,]       [C]     [Am]       [Em]       [Em]       [F]     [G][,]       [Am]       [Em]       [F]     [G]
 
-
 But [C]I was so much [F]older [C]then, I'm [F]younger [G]than that [C]now. [F]    [C]     [F][,]     [C]     [F][,]     [C]     [F][,]     [|][C][|]     [C][...]     [|][C][|]
-
-
-
