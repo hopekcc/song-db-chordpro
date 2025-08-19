@@ -1,6 +1,4 @@
 {title: 9 To 5}
-{subtitle: }
-
 
 [G] Tumble out of bed and I stumble to the kitchen
 [C] Pour myself a cup of ambition

@@ -1,5 +1,4 @@
 {title: After Midnight}
-{subtitle: }
 
 Verse 1
 [D] ~After midnight, [F] ~we're gonna [G]let it all hang [D] out.

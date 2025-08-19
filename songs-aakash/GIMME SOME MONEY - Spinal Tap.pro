@@ -1,0 +1,38 @@
+{title: GIMME SOME MONEY}
+{subtitle: Spinal Tap}
+[INTRO][:]     [<][strum][rapidly][>]       [A]     [x]    [12]       [<][palm][mute][>]
+
+[NC]Stop wasting my [E]time.  [A][-][D][-][|][E][|]     [<][palm][mute][>]
+[NC]You know what I [E]want.  [A][-][D][-][|][E][|]     [<][palm][mute][>]
+[NC]You know what I [A]need.  [D][-][C][-][|][A][|]     [<][palm][mute][>]
+[NC]Or maybe you [E]don't.  [A][-][D][-][|][E][|]     [<][palm][mute][>]
+[NC]Do I have to come [B]right flat out and tell you everything.
+[E]Gimme some [A]money-[E]ey, [A]     [E]gimme some [A]money-[E]ey.  [A]
+
+[B] [B]      [<][strum][rapidly][>]     [A]     [x]    [12]       [<][palm][mute][>]
+
+[NC]I'm nobody's [E]fool.  [A][-][D][-][|][E][|]     [<][palm][mute][>]
+[NC]I'm nobody's [E]clown.  [A][-][D][-][|][E][|]     [<][palm][mute][>]
+[NC]I'm treating you [A]cool.  [D][-][C][-][|][A][|]     [<][palm][mute][>]
+[NC]I'm putting you [E]down.  [A][-][D][-][|][E][|]     [<][palm][mute][>]
+[NC]But baby I [B]don't intend to leave empty handed.
+[E]Gimme some [A]money-[E]ey, [A]     [E]gimme some [A]money-[E]ey.  [A]
+
+Oh [B]yeah! [B]       [<][strum][rapidly][>]     [A]     [x]    [12]       Go Nigel go!
+
+[E] [A]     [E]     [A]     [E]     [A]     [E]     [A][,]     [A]     [Asus4]            [A]     [Asus4][,]     [E]     [A]     [E]     [A]     [E]     [B]     [A]
+
+[E]Gimme some [A]money-[E]ey, [A]     [E]gimme some [A]money-[E]ey.     [<][palm][mute][>]
+
+[NC]Don't get me [E]wrong.  [A][-][D][-][|][E][|]     [<][palm][mute][>]
+[NC]Try getting me [E]right.  [A][-][D][-][|][E][|]     [<][palm][mute][>]
+[NC]Your face is o[A]kay.  [D][-][C][-][|][A][|]     [<][palm][mute][>]
+[NC]But your purse is too [E]tight.  [A][-][D][-][|][E][|]     [<][palm][mute][>]
+[NC]I'm looking for [B]pound notes loose change bad checks anything.
+[E]Gimme some [A]money-[E]ey, [A]     [E]gimme some [A]money-[E]ey.  [A]
+
+[E]Gimme some [A]money-[E]ey, [A]     [E]gimme some [A]money-[E]ey.  [A]
+
+[E]Gimme some [A]money-[E]ey, [A]     [E]gimme some [A]money-[E]ey.  [A]
+
+[E]Gimme some [A]money-[E]ey, [A]     [|][E][|]

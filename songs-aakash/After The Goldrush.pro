@@ -1,5 +1,4 @@
 {title: After The Goldrush}
-{subtitle: }
 [B] [E] [B] [E]
 
 [E] Well I [B] dreamed I saw the knights in [E] armour coming
@@ -35,4 +34,3 @@ The [E] loading had be-[A]gun
 To a  [A]new home in the [E]sun
 [B] Flying mother nature's [F#] silver seed
 To a [A]new home [E]
-

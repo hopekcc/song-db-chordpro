@@ -1,13 +1,9 @@
 {title: A Flag Of Our Own}
-{subtitle: }
 {time: 3:17}
 {zoom-ipad:3.006344}
 
-
-
-
 [C] Ned Kelly came round to [F] see me to-[C] day
-[C] I guess I was dreaming, oh oh oh oh [G] oh 
+[C] I guess I was dreaming, oh oh oh oh [G] oh
 [C] Dumbfounded I couldn't [F] think what to [C] say
 [G] Oh Ho Ho a Ho [C] Ho
 
@@ -40,4 +36,6 @@ Oh we [G] must have a flag of our [C] own
 We're [G] not Yankee side-kicks or [C] second class Poms
 And [F] tell the Frogs what they can [C] do with their bombs
 Oh we [G]must have a flag of our [C]own
-Outro [F] [C] [G] [C] 
+Outro
+{start_of_outro}
+[F] [C] [G] [C]
